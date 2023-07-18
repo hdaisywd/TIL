@@ -17,7 +17,7 @@ Today I Learned...✨
 ## Operating System
 ------------------------------------
 
-## Network 
+## Computer Network 
 ------------------------------------
 
 ## Database
