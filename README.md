@@ -12,7 +12,7 @@ Today I Learned...✨
 
 ## OOP
 - [OOP in Swift](https://hdaisywd.github.io/appdev/TIL0719/)
-- [SOLID]()
+- [SOLID]() 
 ------------------------------------
 
 # CS 🖥️
