@@ -8,6 +8,7 @@ Today I Learned...✨
 - [Enum, map(), filter(), reduce(), range operator](https://hdaisywd.github.io/appdev/TIL0718/)
 - [Optional](https://hdaisywd.github.io/appdev/TIL07182/)
 - [Structure vs Class](https://hdaisywd.github.io/appdev/TIL07192/)
+- [ARC, Memory leak problem and how to solve it](https://hdaisywd.github.io/appdev/TIL0720/)
 
 ## OOP
 - [OOP in Swift](https://hdaisywd.github.io/appdev/TIL0719/)
