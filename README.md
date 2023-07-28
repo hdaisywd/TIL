@@ -20,7 +20,7 @@ Today I Learned...✨
 
 
 ## Data Structure
-
+- [BFS, DFS](https://hdaisywd.github.io/algorithm/bfsdfs/)
 
 ## Computer Architecture
 
