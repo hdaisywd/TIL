@@ -17,10 +17,10 @@ Today I Learned...✨
 
 # CS 🖥️
 ## Algorithm
-
+- [BFS, DFS w/ swift](https://hdaisywd.github.io/algorithm/bfsdfs/)
 
 ## Data Structure
-- [BFS, DFS w/ swift](https://hdaisywd.github.io/algorithm/bfsdfs/)
+
 
 ## Computer Architecture
 
