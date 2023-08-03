@@ -10,28 +10,16 @@ Today I Learned...✨
 - [Structure vs Class](https://hdaisywd.github.io/appdev/TIL07192/)
 - [ARC, Memory leak problem and how to solve it](https://hdaisywd.github.io/appdev/TIL0720/)
 
+## iOS
+- [present instance method](https://hdaisywd.github.io/appdev/TIL0803/)
+
 ## OOP
 - [OOP in Swift](https://hdaisywd.github.io/appdev/TIL0719/)
 - [SOLID](https://hdaisywd.github.io/appdev/SOLID/) 
 ------------------------------------
 
 # CS 🖥️
-## Algorithm
 - [BFS, DFS w/ swift](https://hdaisywd.github.io/algorithm/bfsdfs/)
-
-## Data Structure
-
-
-## Computer Architecture
-
-
-## Operating System
-
-
-## Computer Network 
-
-
-## Database
 
 ------------------------------------
 
