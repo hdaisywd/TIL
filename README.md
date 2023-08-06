@@ -12,7 +12,8 @@ Today I Learned...✨
 
 ## iOS
 - [present instance method](https://hdaisywd.github.io/appdev/TIL0803/)
-- [Snapkit Series](https://hdaisywd.github.io/appdev/TIL08032/) 
+- [Snapkit Series](https://hdaisywd.github.io/appdev/TIL08032/)
+- [Set application root view controller programmatically](https://hdaisywd.github.io/appdev/TIL0805/)
 
 ## OOP
 - [OOP in Swift](https://hdaisywd.github.io/appdev/TIL0719/)
